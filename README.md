@@ -7,3 +7,5 @@ Overall Archetecture:
 Database Schema:
 
 API Archectecture:
+
+![Alt text](diagrams/API.png)
