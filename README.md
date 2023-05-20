@@ -4,7 +4,9 @@ Overall Archetecture:
 
 ![Alt text](diagrams/SMS-habit-tracker.png)
 
-Database Schema:
+Database Entity Relationship Diagram:
+
+![Alt text](diagrams/smsDB.png)
 
 API Archectecture:
 
